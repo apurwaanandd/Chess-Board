@@ -26,3 +26,11 @@ This project is a simple and elegant **Chess Board UI** created using **HTML, CS
 
 ## 📁 Project Structure
 
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/apurwaanandd/Chess-Board.git
